@@ -1,2 +1,2 @@
-# M-todos-Num-ricos
+# Metodos Numericos
 Proyecto Métodos Numéricos
